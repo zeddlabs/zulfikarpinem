@@ -6,7 +6,7 @@
 
 ### About Me
 - 🌱 I’m currently learning JavaScript 
-- 📫 You can reach me at my Facebook [Mhd. Zulfikar Pinem](https://web.facebook.com/mhd.zulfikarrr/) or my Instagram [@mhd.zulfikarpi](https://www.instagram.com/mhd.zulfikarpi/) 
+- 📫 You can reach me at my Facebook [Mhd. Zulfikar Pinem](https://web.facebook.com/mhd.zulfikarrr/) or my Instagram [@zulfikar.pinem](https://www.instagram.com/zulfikar.pinem/) 
 
 ### Skills 
 <p>

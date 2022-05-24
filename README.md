@@ -5,7 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijuldev&show_icons=true)
 
 ### About Me
-- 🌱 I’m currently learning Laravel and Javascript Framework/Library. 
+- 🌱 I’m currently learning Laravel and some Javascript Libraries. 
 - 📫 You can reach me at my Facebook [Mhd. Zulfikar Pinem](https://web.facebook.com/mhd.zulfikarrr/) or my Instagram [@zulfikar.pinem](https://www.instagram.com/zulfikar.pinem/) 
 
 ### Skills 

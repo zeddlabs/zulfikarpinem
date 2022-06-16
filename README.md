@@ -32,16 +32,20 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
     </a>
-  <a href="https://tailwindcss.com">
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"
       height="40" alt="tailwind" />
     </a>
-  <a href="https://laravel.com">
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"
       alt="laravel" />
     </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+      width="40" height="40" /> 
+    </a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs"
       width="40" height="40" /> 
     </a>
 </p>

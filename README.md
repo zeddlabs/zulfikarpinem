@@ -5,7 +5,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IjulDev&show_icons=true)
 
 ### About Me
-- 🌱 I’m currently learning some JavaScript libraries. 
+- 🌱 I’m currently learning some JavaScript libraries and Data Science. 
 - 📫 You can reach me at my Facebook [Mhd. Zulfikar Pinem](https://web.facebook.com/mhd.zulfikar.pinem/) or my Instagram [@zulfikar.pinem](https://www.instagram.com/zulfikar.pinem/) 
 
 ### Skills 
@@ -46,6 +46,14 @@
     </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs"
+      width="40" height="40" /> 
+    </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
+      width="40" height="40" /> 
+    </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> 
     </a>
 </p>

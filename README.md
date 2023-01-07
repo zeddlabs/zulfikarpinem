@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🤓
 
 ![Profile views](https://gpvc.arturio.dev/IjulDev)
 

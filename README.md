@@ -1,12 +1,10 @@
-# Hi there 🤓
-
-![Profile views](https://gpvc.arturio.dev/IjulDev)
+## Hi 👋, I'm Zul!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IjulDev&show_icons=true)
 
 ### About Me
-- 🌱 I’m currently learning some JavaScript libraries and Data Science. 
-- 📫 You can reach me at my Facebook [Mhd. Zulfikar Pinem](https://web.facebook.com/mhd.zulfikar.pinem/) or my Instagram [@zulfikar.pinem](https://www.instagram.com/zulfikar.pinem/) 
+- 👀 I’m interested in Web Development and Mobile App Development.
+- 📫 How to reach me : zulfikarm022@gmail.com 
 
 ### Skills 
 <p>

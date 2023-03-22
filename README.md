@@ -3,6 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IjulDev&show_icons=true)
 
 ### About Me
+- 🌱 I'm currently learning Flutter.
 - 👀 I’m interested in Web Development and Mobile App Development.
 - 📫 How to reach me : zulfikarm022@gmail.com 
 

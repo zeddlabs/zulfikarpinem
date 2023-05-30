@@ -2,7 +2,7 @@
 
 ![img](https://github.com/IjulDev/ijuldev/blob/main/tumblr_6b9d5fbcc7d6ebe2c3636ed25a550787_311bc898_1280.gif)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IjulDev&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfikarpinem&show_icons=true)
 
 ### About Me
 - 🌱 I'm currently learning Flutter.

@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Zul!
 
-<p align="center">
-  <img src="https://github.com/IjulDev/ijuldev/blob/main/tumblr_6b9d5fbcc7d6ebe2c3636ed25a550787_311bc898_1280.gif" />
-</p>
+![ReadmeBox](https://raw.githubusercontent.com/zulfikarpinem/zulfikarpinem/main/readmebox.svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfikarpinem&show_icons=true)
 

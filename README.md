@@ -2,10 +2,8 @@
 
 ![ReadmeBox](https://raw.githubusercontent.com/zulfikarpinem/zulfikarpinem/main/readmebox.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfikarpinem&show_icons=true)
-
 ### About Me
-- 🌱 I'm currently learning Flutter.
+- 🌱 I'm currently learning NestJS, NextJS, and Flutter.
 - 👀 I’m interested in Web Development and Mobile App Development.
 - 📫 How to reach me : zulfikarm022@gmail.com 
 

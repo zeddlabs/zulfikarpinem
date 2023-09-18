@@ -8,7 +8,7 @@
 - 📫 How to reach me : zulfikarm022@gmail.com 
 
 ### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,mongodb,bootstrap,tailwind,jquery,react,nextjs,express,laravel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,mongodb,bootstrap,tailwind,jquery,react,nextjs,express,laravel,flutter)
 
 ### Tools
 ![My Tools](https://skillicons.dev/icons?i=vscode,git,postman,figma)

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .lg {
+          display: none;
+        }
+        @media screen and (min-width: 768px) {
+          .lg {
+            display: block;
+          }
+          .sm {
+            display: none;
+          }
+        }
+      </style>
+      <img
+        class="lg"
+        src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter"
+      />
+      <img
+        class="sm"
+        src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter%26perline=6"
+      />
+    </div>
+  </foreignObject>
+</svg>

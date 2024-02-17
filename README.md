@@ -9,9 +9,9 @@
 
 ### Skills 
 <picture>
-  <source media="(min-width: 768px)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter">
+  <source media="(min-width: 768px)" srcset="https://raw.githubusercontent.com/zulfikarpinem/zulfikarpinem/main/readmebox.svg">
   <source media="(max-width: 767px)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter&perline=6">
-  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter">
+  <img src="https://raw.githubusercontent.com/zulfikarpinem/zulfikarpinem/main/readmebox.svg">
 </picture>
 
 ### Tools

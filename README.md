@@ -8,14 +8,18 @@
 - 📫 How to reach me : zulfikarm022@gmail.com 
 
 ### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,mongodb,bootstrap,tailwind,jquery,react,nextjs,express,laravel,flutter)
+<picture>
+  <source media="(min-width: 768px)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter">
+  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cnodejs%2Cphp%2Cgo%2Cmysql%2Cmongodb%2Cbootstrap%2Ctailwind%2Cjquery%2Creact%2Cnextjs%2Cexpress%2Claravel%2Cflutter&perline=6">
+</picture>
 
 ### Tools
-![My Tools](https://skillicons.dev/icons?i=vscode,bash,git,postman,figma)
+![My Tools](https://skillicons.dev/icons?i=vscode%2Cbash%2Cgit%2Cpostman%2Cfigma)
+
+### Github Stats
+![My GitHub Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api?username=zulfikarpinem&include_all_commits=true&hide=contribs)
+
+![My Top Langs](https://github-readme-stats-zulfikarpinem.vercel.app/api/top-langs/?username=zulfikarpinem&layout=donut-vertical&langs_count=16)
 
 ### Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-  
-
-

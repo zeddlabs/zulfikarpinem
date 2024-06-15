@@ -106,9 +106,15 @@
 </div>
 
 ### Github Stats
-![My GitHub Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api?username=zulfikarpinem&include_all_commits=true&hide=contribs)
+![My GitHub Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api?username=zulfikarpinem&include_all_commits=true)
 
-![My Top Langs](https://github-readme-stats-zulfikarpinem.vercel.app/api/top-langs/?username=zulfikarpinem&layout=donut-vertical&langs_count=16)
+![My Top Langs](https://github-readme-stats-zulfikarpinem.vercel.app/api/top-langs/?username=zulfikarpinem&layout=compact&langs_count=7)
+
+### Github Strikes
+![My GitHub Strikes](https://github-readme-streak-stats.herokuapp.com/?user=zulfikarpinem)
+
+### Wakatime Stats
+![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zulfikarpinem)
 
 ### Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
